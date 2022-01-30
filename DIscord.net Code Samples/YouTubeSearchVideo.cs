@@ -9,8 +9,6 @@ namespace MilošBot.Commands
 {
     public class Najdi : ModuleBase<SocketCommandContext>
     {
-        //AIzaSyBnWN0zHpEBIEyy10_mpQU2i7QWYXZPZGA
-
         private string videoid;
 
         [Command("yt-search")]
